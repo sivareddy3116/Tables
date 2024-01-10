@@ -12,3 +12,4 @@ E:\phase 3 class\day 4\ConAppTable\ConAppTable\obj\Debug\net6.0\refint\ConAppTab
 E:\phase 3 class\day 4\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.pdb
 E:\phase 3 class\day 4\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.genruntimeconfig.cache
 E:\phase 3 class\day 4\ConAppTable\ConAppTable\obj\Debug\net6.0\ref\ConAppTable.dll
+E:\phase 3 class\day 4\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.sourcelink.json
